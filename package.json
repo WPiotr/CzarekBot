@@ -1,0 +1,14 @@
+{
+  "name": "czarekbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Piotr Wyszkowski",
+  "license": "MIT",
+  "devDependencies": {
+    "slackbots": "^1.2.0"
+  }
+}
